@@ -3,6 +3,10 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import "jquery/dist/jquery.js";
+import 'bootstrap/dist/css/bootstrap.css';
+import "bootstrap/js/src/collapse.js";
+import "./index.css"
 
 ReactDOM.render(
   <React.StrictMode>
